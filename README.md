@@ -7,7 +7,7 @@ Data Quality Check
 Basic Data Analysis
 Sorting and Filtering
 Data Visualization using Charts
-Business Observations                                                                                                                                                          # -Tools Used
+Business Observations                                                                                                                                                        # -Tools Used
 Microsoft Excel                                                                                                                                                                # -Dataset Columns
 Transaction ID 
 Date
